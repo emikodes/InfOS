@@ -1,5 +1,5 @@
 # InfOS
-A Simple Hackintosh-er Tool useful to check your pc's specs necessary to choose which kexts download and configure.
+A Simple Hackintosh-er Tool with modern graphics,useful to check your pc's specs necessary to choose which kexts download and configure.
 
 The infos displayed by my software are entirely based on the OEM-Written ones, my code only shows them in a more clear and simple way.
 
